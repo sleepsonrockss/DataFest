@@ -132,7 +132,7 @@ Open the notebooks in order (01 → 04) for the full pipeline.
 
 ## 👥 Team
 
-Built during ASA DataFest by a team of data science students competing under time pressure with a dataset revealed only at the start of the competition.
+Sohana Dhinsa, Ipsa Manhas, Kashish Gupta, Rosanna Dovganyuk, Animesh Tirkey
 
 ---
 
